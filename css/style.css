@@ -119,6 +119,50 @@ body {
     cursor: pointer;
 }
 
+.footer-bg {
+    background-color: #1c5830;
+    padding: 5px 0;
+}
+
+.list-group-item {
+    background-color: #1c5830 !important;
+    color: white !important;
+    padding: 5px !important;
+}
+
+.email {
+  font-size: 12px;
+}
+
+.telefono {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.horario {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.txt-none {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .b-bottom {
+    border-bottom: 2px solid #b5ff00;
+    padding: 5px 0;
+  }
+  
+  .txt-none:hover {
+    text-decoration: none;
+    color: white;
+  }
+
+  .amarillo {
+    color: #b5ff00 !important;
+  }
+  
 @media (max-width: 768px) {
     .img-logo {
         display: block;
@@ -170,5 +214,22 @@ body {
         text-align: center;
     }
 
+    .footer-title {
+        font-size: 24px;
+        font-weight: 900;
+        color:#375736;
+        padding-top: 30px;
+    }
+
+    .footer-parrafo {
+        font-size: 18px;
+        color: #5b5b5b;
+        padding-bottom: 10px;
+    }
+
+    .feather {
+        height: 24px;
+        width: 24px;
+      }
     
 }
