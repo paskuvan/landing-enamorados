@@ -55,7 +55,8 @@ body {
 }
 
 .img-slider {
-    width: 100%;
+    width: 90%;
+    border-radius:5px;
 }
 
 .btn-default {
@@ -80,6 +81,7 @@ body {
 
 .img-personaje {
     width: 90%;
+    border-radius: 5px;
 }
 
 .mt-7 {
