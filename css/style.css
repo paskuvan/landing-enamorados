@@ -162,6 +162,16 @@ body {
   .amarillo {
     color: #b5ff00 !important;
   }
+
+  .leaf {
+    position: fixed;
+    bottom: 10em;
+    left: 60em;
+    width: 400px;
+    overflow-y:scroll;
+    overflow-x:hidden;
+  }
+
   
 @media (max-width: 768px) {
     .img-logo {
