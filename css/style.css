@@ -164,13 +164,10 @@ body {
   }
 
   .leaf {
-    position: fixed;
-    bottom: 10em;
-    left: 60em;
     width: 400px;
-    overflow-y:scroll;
-    overflow-x:hidden;
   }
+
+
 
   
 @media (max-width: 768px) {
